@@ -1,9 +1,6 @@
 [submodule "meta-raspberrypi"]
 	path = meta-raspberrypi
 	url = git@github.com:agherzan/meta-raspberrypi.git
-[submodule "meta-mender"]
-	path = meta-mender
-	url = git@github.com:mendersoftware/meta-mender.git
 [submodule "poky"]
 	path = poky
 	url = git://git.yoctoproject.org/poky
